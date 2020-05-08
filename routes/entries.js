@@ -39,8 +39,19 @@ router.post('/', auth, async (req, res) => {
 //@route    DELETE api/journey-entries/:id
 //@desc     Delete a 'step' or entry
 //@access   Private
-router.delete('/:id', (req, res) => {
-  res.send('Delete an entry');
+router.delete('/:id', auth, async(req, res) => {
+  try {
+    let entry = await Entry.findById(req.params.id);
+    if(!entry) return res.status(404).json({ msg: 'Step not found...'})
+
+    if(entry.user.toString() !== req.user.id){
+      return res.status(401).json({ msg: "I don't think this is yours..."})
+    }
+    await Entry.findByIdAndDelete(req.params.id)
+    res.json({ msg: "That step is now paved over..." })
+  } catch (err) {
+    console.error(err.message)
+  }
 });
 
 module.exports = router;
