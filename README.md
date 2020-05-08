@@ -1,4 +1,5 @@
-Project Overview
+# Project Overview
+
 ![Image description](https://media.tenor.com/images/afdd108e2e6b46fd825a66e1b92dc87e/tenor.gif)
 
 ## Project Links
@@ -95,4 +96,4 @@ I will be building an app focusing on teaching children to develop better emotio
 
 
 ### Estimated time to MVP: 52hrs
-### Estimated remaining hours: 49hrs
+### Estimated remaining hours: 47hrs
