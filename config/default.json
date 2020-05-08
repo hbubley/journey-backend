@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://hbubley:640z8r@journey-cluster-yywbc.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://hbubley:640z8r@journey-cluster-yywbc.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
