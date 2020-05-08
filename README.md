@@ -53,7 +53,7 @@ I will be building an app focusing on teaching children to develop better emotio
 
 - [x] Research iterations and breathing animation timing (Est: 1hr | Actual: 20min)
 - [x] User Story (Est: 2hr | Actual: 1hr)
-- [ ] Complete front-end architecture (draft) (Est: 5hr)
+- [x] Complete front-end architecture (draft) (Est: 5hr | Actual: 1hr)
 - [x] Complete back-end architecture (draft) (Est: 2hr | Actual: 30min)
 - [ ] Stretch: Complete back-end start-up (download dependencies and connect to atlas db) (5hr)
 
@@ -97,4 +97,4 @@ I will be building an app focusing on teaching children to develop better emotio
 
 
 ### Estimated time to MVP: 52hrs
-### Estimated remaining hours: 47hrs
+### Estimated remaining hours: 42hrs
