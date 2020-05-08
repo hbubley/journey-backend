@@ -48,7 +48,7 @@ I will be building an app focusing on teaching children to develop better emotio
 
 ### Friday 4/8/20:
 
-- [ ] Research iterations and breathing animation timing (1hr)
+- [x] Research iterations and breathing animation timing (1hr)
 - [x] User Story (2hr)
 - [ ] Complete front-end architecture (draft) (5hr)
 - [ ] Complete back-end architecture (draft) (2hr)
