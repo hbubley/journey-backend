@@ -59,35 +59,35 @@ I will be building an app focusing on teaching children to develop better emotio
 - [ ] Back-end routes and user auth (5hr)
 - [ ] Stretch: Deploy to Netlify (1hr)
 
-Sunday 4/10/20:
+### Sunday 4/10/20:
 
 - [ ] Create React App and make necessary files and folders (parent comp, children comp, context, etc...), connect to github (2hr)
 - [ ] Route all parent components (2hr)
 - [ ] Connect app to back-end (1hr)
 - [ ] Stretch: Import all necessary design attributes (button images, backgrounds, etc..) (5hr)
 
-Monday 4/11/20:
+### Monday 4/11/20:
 
 - [ ] Working and synced login/register pop-up connected to back-end (6hr - never done this before)
 - [ ] Create breathing sequence animation (3hr - will likely play around with animation)
 - [ ] Stretch: Display functionality of journaling sequence (properly goes between input/breathing cycle) (7hr)
 
-Tuesday 4/12/20:
+### Tuesday 4/12/20:
 
 - [ ] Display functionality of journaling sequence (properly goes between input/breathing cycle) (7hr)
 - [ ] Ensure input is being registered and stored by back-end (2hr)
 - [ ] Stretch: SCSS breakpoints! (3hr)
 
-Wednesday 4/13/20:
+### Wednesday 4/13/20:
 
 - [ ] SCSS breakpoints! (3hr)
 - [ ] Testing and looking for bugs (2hr)
 
-Thursday 4/14/20:
+### Thursday 4/14/20:
 
 - [ ] Finishing touches! 
 - [ ] Post-MVP goals on different branch
 
-Friday 4/15/20:
+### Friday 4/15/20:
 
 - [ ] :')
