@@ -20,12 +20,15 @@ I will be building an app focusing on teaching children to develop better emotio
 - [Link to my desktop wireframe](https://drive.google.com/file/d/1PbbSaZvgkG0wHH_E9n2A5lCwcgpWHXBA/view?usp=sharing)
 
 ## MVP
+
 ### Back-End
+
 - Functioning routes that store user information
 - functioning routes that store users entries
 - JWT authorization 
 
 ### Front-End
+
 - Pulls in from user api
 - is able to register new user and login returning users
 - Takes journal entries and posts to api
@@ -33,6 +36,7 @@ I will be building an app focusing on teaching children to develop better emotio
 - Responsive, mobile-first design
 
 ## PostMVP 
+
 - Pure 'breathing' and journaling sections and navigation
 - More detailed breathing animation. 
 - More extensive user dashboad
@@ -41,33 +45,49 @@ I will be building an app focusing on teaching children to develop better emotio
 - Add radical acceptance concepts into it. Maybe pages where you can practice radical acceptance
 
 ## Schedule
-Friday 4/8/20:
+
+### Friday 4/8/20:
+
 - [ ] Research iterations and breathing animation timing (1hr)
 - [x] User Story (2hr)
 - [ ] Complete front-end architecture (draft) (5hr)
 - [ ] Complete back-end architecture (draft) (2hr)
 - [ ] Stretch: Complete back-end start-up (download dependencies and connect to atlas db) (5hr)
-Saturday 4/9/20:
+
+### Saturday 4/9/20:
+
 - [ ] Back-end routes and user auth (5hr)
 - [ ] Stretch: Deploy to Netlify (1hr)
+
 Sunday 4/10/20:
+
 - [ ] Create React App and make necessary files and folders (parent comp, children comp, context, etc...), connect to github (2hr)
 - [ ] Route all parent components (2hr)
 - [ ] Connect app to back-end (1hr)
 - [ ] Stretch: Import all necessary design attributes (button images, backgrounds, etc..) (5hr)
+
 Monday 4/11/20:
+
 - [ ] Working and synced login/register pop-up connected to back-end (6hr - never done this before)
 - [ ] Create breathing sequence animation (3hr - will likely play around with animation)
 - [ ] Stretch: Display functionality of journaling sequence (properly goes between input/breathing cycle) (7hr)
+
 Tuesday 4/12/20:
+
 - [ ] Display functionality of journaling sequence (properly goes between input/breathing cycle) (7hr)
 - [ ] Ensure input is being registered and stored by back-end (2hr)
 - [ ] Stretch: SCSS breakpoints! (3hr)
+
 Wednesday 4/13/20:
+
 - [ ] SCSS breakpoints! (3hr)
 - [ ] Testing and looking for bugs (2hr)
+
 Thursday 4/14/20:
+
 - [ ] Finishing touches! 
 - [ ] Post-MVP goals on different branch
+
 Friday 4/15/20:
+
 - [ ] :')
