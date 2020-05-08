@@ -46,6 +46,7 @@ I will be building an app focusing on teaching children to develop better emotio
 - Add to the midnful journaling process, such as a grounding page where your forced to lok around you for a certain color, count how many times they see that color, and input that number. 
 - Add radical acceptance concepts into it. Maybe pages where you can practice radical acceptance
 - Add goals or routine section
+- "how are you feeling today" addition
 
 ## Schedule
 

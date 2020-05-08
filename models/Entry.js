@@ -1,6 +1,10 @@
 const mongoose = require("mongoose");
 
 const EntrySchema = mongoose.Schema({
+  user: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'users'
+  },
   thoughts: {
     type: String,
     required: false,
