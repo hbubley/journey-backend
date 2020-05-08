@@ -43,6 +43,7 @@ I will be building an app focusing on teaching children to develop better emotio
 - Better navigational layouts
 - Add to the midnful journaling process, such as a grounding page where your forced to lok around you for a certain color, count how many times they see that color, and input that number. 
 - Add radical acceptance concepts into it. Maybe pages where you can practice radical acceptance
+- Add goals or routine section
 
 ## Schedule
 
@@ -51,7 +52,7 @@ I will be building an app focusing on teaching children to develop better emotio
 - [x] Research iterations and breathing animation timing (Est: 1hr | Actual: 20min)
 - [x] User Story (Est: 2hr | Actual: 1hr)
 - [ ] Complete front-end architecture (draft) (Est: 5hr)
-- [ ] Complete back-end architecture (draft) (2hr)
+- [x] Complete back-end architecture (draft) (2hr)
 - [ ] Stretch: Complete back-end start-up (download dependencies and connect to atlas db) (5hr)
 
 ### Saturday 4/9/20:
