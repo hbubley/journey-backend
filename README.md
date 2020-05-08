@@ -49,44 +49,44 @@ I will be building an app focusing on teaching children to develop better emotio
 
 ## Schedule
 
-### Friday 4/8/20:
+### Friday 4/8/20 (time: est[11hrs] | actual[3.3hrs])
 
 - [x] Research iterations and breathing animation timing (Est: 1hr | Actual: 20min)
 - [x] User Story (Est: 2hr | Actual: 1hr)
 - [x] Complete front-end architecture (draft) (Est: 5hr | Actual: 1hr)
 - [x] Complete back-end architecture (draft) (Est: 2hr | Actual: 30min)
-- [ ] Stretch: Complete back-end start-up (download dependencies and connect to atlas db) (5hr)
+- [x] Stretch: Complete back-end start-up (download dependencies and connect to atlas db) (Est: 1hr | actual: 30min)
 
-### Saturday 4/9/20:
+### Saturday 4/9/20  (time: est[6hrs] | actual[])
 
-- [ ] Back-end routes and user auth (5hr)
-- [ ] Stretch: Deploy to Netlify (1hr)
+- [ ] Back-end routes and user auth (Est: 5hr | current: 1.5hrs)
+- [ ] Stretch: Deploy to Netlify (Est: 1hr | Actual: )
 
-### Sunday 4/10/20:
+### Sunday 4/10/20 (time: est[10hr] | actual:)
 
-- [ ] Create React App and make necessary files and folders (parent comp, children comp, context, etc...), connect to github (2hr)
-- [ ] Route all parent components (2hr)
-- [ ] Connect app to back-end (1hr)
-- [ ] Stretch: Import all necessary design attributes (button images, backgrounds, etc..) (5hr)
+- [ ] Create React App and make necessary files and folders (parent comp, children comp, context, etc...), connect to github (Est: 2hr)
+- [ ] Route all parent components (Est: 2hr)
+- [ ] Connect app to back-end (Est: 1hr)
+- [ ] Stretch: Import all necessary design attributes (button images, backgrounds, etc..) (Est: 5hr)
 
-### Monday 4/11/20:
+### Monday 4/11/20 (time: est[12hrs] | actual[])
 
-- [ ] Working and synced login/register pop-up connected to back-end (6hr - never done this before)
-- [ ] Create breathing sequence animation (3hr - will likely play around with animation)
-- [ ] Stretch: Display functionality of journaling sequence (properly goes between input/breathing cycle) (7hr)
+- [ ] Working and synced login/register pop-up connected to back-end (Est: 6hr - never done this before)
+- [ ] Create breathing sequence animation (Est: 3hr - will likely play around with animation)
 
-### Tuesday 4/12/20:
+
+### Tuesday 4/12/20 (time: est[12hrs] | actual[])
 
 - [ ] Display functionality of journaling sequence (properly goes between input/breathing cycle) (7hr)
 - [ ] Ensure input is being registered and stored by back-end (2hr)
 - [ ] Stretch: SCSS breakpoints! (3hr)
 
-### Wednesday 4/13/20:
+### Wednesday 4/13/20 (time: est[5hrs] | actual[])
 
 - [ ] SCSS breakpoints! (3hr)
 - [ ] Testing and looking for bugs (2hr)
 
-### Thursday 4/14/20:
+### Thursday 4/14/20
 
 - [ ] Finishing touches! 
 - [ ] Post-MVP goals on different branch
@@ -96,5 +96,6 @@ I will be building an app focusing on teaching children to develop better emotio
 - [ ] :')
 
 
-### Estimated time to MVP: 52hrs
-### Estimated remaining hours: 42hrs
+### Estimated time to MVP: 56hrs
+
+### Estimated remaining hours: 45hrs
