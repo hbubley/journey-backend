@@ -19,6 +19,7 @@ I will be building an app focusing on teaching children to develop better emotio
 
 - [Link to my mobile wireframe](https://drive.google.com/file/d/1Y2P1q25u4DTHMm1CuRJC1zz8dbBaoimk/view?usp=sharing)
 - [Link to my desktop wireframe](https://drive.google.com/file/d/1PbbSaZvgkG0wHH_E9n2A5lCwcgpWHXBA/view?usp=sharing)
+- [Link to React Architecture](https://drive.google.com/file/d/1hBRWavgXSi8NEyxjYUGXQruYHs8u6BWI/view?usp=sharing)
 
 ## MVP
 
