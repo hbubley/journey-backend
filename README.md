@@ -49,7 +49,7 @@ I will be building an app focusing on teaching children to develop better emotio
 
 ## Schedule
 
-### Friday 4/8/20 (time: est[11hrs] | actual[3.3hrs])
+### Friday 4/8/20 (time: est[11hrs] | actual[3.3hrs] | extra[])
 
 - [x] Research iterations and breathing animation timing (Est: 1hr | Actual: 20min)
 - [x] User Story (Est: 2hr | Actual: 1hr)
