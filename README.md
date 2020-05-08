@@ -27,6 +27,19 @@ I will be building an app focusing on teaching children to develop better emotio
 ### MVP/PostMVP - 5min
 
 #### MVP
+##### Back-End
+- Functioning routes that store user information
+- functioning routes that store users entries
+- JWT authorization 
+
+##### Front-End
+- Pulls in from user api
+- is able to register new user and login returning users
+- Takes journal entries and posts to api
+- Breathing animation
+- Responsive, mobile-first design
 
 #### PostMVP 
-
+- CSS animations 
+- More extensive user dashboad
+- Better navigational layouts
