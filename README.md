@@ -58,10 +58,10 @@ I will be building an app focusing on teaching children to develop better emotio
 - [x] Complete back-end architecture (draft) (Est: 2hr | Actual: 30min)
 - [x] Stretch: Complete back-end start-up (download dependencies and connect to atlas db) (Est: 1hr | actual: 30min)
 
-### Saturday 4/9/20  (time: est[6hrs] | actual[])
+### Saturday 4/9/20  (time: est[6hrs] | actual[4.5hrs])
 
-- [ ] Back-end routes and user auth (Est: 5hr | current: 1.5hrs)
-- [ ] Stretch: Deploy to Netlify (Est: 1hr | Actual: )
+- [x] Back-end routes and user auth (Est: 5hr | current: 4.5hrs) <=> did this 4/8
+- [x] Stretch: Deploy to Netlify (Est: 1hr | Actual: 5min) <=> did this 4/8
 
 ### Sunday 4/10/20 (time: est[10hr] | actual:)
 
