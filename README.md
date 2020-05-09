@@ -5,7 +5,7 @@
 ## Project Links
 
 - [github repo back-end link](https://github.com/hbubley/journey-backend)
-- [github repo front-end link]()
+- [github repo front-end link](https://github.com/hbubley/journey-frontend)
 - [Deployment link]()
 
 ## Project Description
@@ -45,10 +45,12 @@ https://git.heroku.com/intense-basin-33436.git
 - More detailed breathing animation. 
 - More extensive user dashboad
 - Better navigational layouts
-- Add to the midnful journaling process, such as a grounding page where your forced to lok around you for a certain color, count how many times they see that color, and input that number. 
+- Add to the midnful journaling process, such as a grounding page where your forced to look around you for a certain color, count how many times they see that color, and input that number. 
 - Add radical acceptance concepts into it. Maybe pages where you can practice radical acceptance
 - Add goals or routine section
 - "how are you feeling today" addition
+- Route that allows for parent email, parent will get a notification every time child takes a 'step', or gives them a weekly report of how many steps were taken. So parents can help enforce the habit. 
+- write a medium article
 
 ## Schedule
 
@@ -91,8 +93,9 @@ https://git.heroku.com/intense-basin-33436.git
 
 ### Thursday 4/14/20
 
-- [ ] Finishing touches! 
+- [ ] Finishing touches!
 - [ ] Post-MVP goals on different branch
+- [ ] First Post-MVP: "how are you feeling today" addition as first question.
 
 ### Friday 4/15/20:
 
