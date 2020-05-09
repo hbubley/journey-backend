@@ -14,6 +14,8 @@ I will be building an app focusing on teaching children to develop better emotio
 
 ## API
 
+https://git.heroku.com/intense-basin-33436.git
+
 
 ## Architecture
 
@@ -50,7 +52,7 @@ I will be building an app focusing on teaching children to develop better emotio
 
 ## Schedule
 
-### Friday 4/8/20 (time: est[11hrs] | actual[3.3hrs] | extra[])
+### Friday 4/8/20 (time: est[11hrs] | actual[3.3hrs] | extra[5.5hrs])
 
 - [x] Research iterations and breathing animation timing (Est: 1hr | Actual: 20min)
 - [x] User Story (Est: 2hr | Actual: 1hr)
@@ -63,9 +65,9 @@ I will be building an app focusing on teaching children to develop better emotio
 - [x] Back-end routes and user auth (Est: 5hr | current: 4.5hrs) <=> did this 4/8
 - [x] Stretch: Deploy to Netlify (Est: 1hr | Actual: 5min) <=> did this 4/8
 
-### Sunday 4/10/20 (time: est[10hr] | actual:)
+### Sunday 4/10/20 (time: est[10hr] | actual: [])
 
-- [ ] Create React App and make necessary files and folders (parent comp, children comp, context, etc...), connect to github (Est: 2hr)
+- [x] Create React App and make necessary files and folders (parent comp, children comp, context, etc...), connect to github (Est: 2hr | Actual: 30min)
 - [ ] Route all parent components (Est: 2hr)
 - [ ] Connect app to back-end (Est: 1hr)
 - [ ] Stretch: Import all necessary design attributes (button images, backgrounds, etc..) (Est: 5hr)
@@ -99,4 +101,4 @@ I will be building an app focusing on teaching children to develop better emotio
 
 ### Estimated time to MVP: 56hrs
 
-### Estimated remaining hours: 45hrs
+### Estimated remaining hours: 39hrs
