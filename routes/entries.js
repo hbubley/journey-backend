@@ -23,9 +23,10 @@ router.post('/', auth, async (req, res) => {
   const {thoughts, good, proud, freespace} = req.body;
   try {
     const newEntry = new Entry({
+      feeling_now,
       thoughts,
-      good,
-      proud,
+      good_thing,
+      proud_moment,
       freespace,
       user: req.user.id
     })

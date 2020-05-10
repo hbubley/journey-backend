@@ -51,6 +51,7 @@ https://git.heroku.com/intense-basin-33436.git
 - "how are you feeling today" addition
 - Route that allows for parent email, parent will get a notification every time child takes a 'step', or gives them a weekly report of how many steps were taken. So parents can help enforce the habit. 
 - write a medium article
+- daily mental download
 
 ## Schedule
 
