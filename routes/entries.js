@@ -20,7 +20,7 @@ router.get('/', auth, async (req, res) => {
 //@desc     Add entry/step
 //@access   Private
 router.post('/', auth, async (req, res) => {
-  const {thoughts, good, proud, freespace} = req.body;
+  const {feeling_now, thoughts, good_thing, proud_moment, freespace} = req.body;
   try {
     const newEntry = new Entry({
       feeling_now,
