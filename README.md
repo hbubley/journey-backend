@@ -6,8 +6,8 @@
 
 - [github repo back-end link](https://github.com/hbubley/journey-backend)
 - [github repo front-end link](https://github.com/hbubley/journey-frontend)
-- [Deployment link]()
-
+- [Deployment link backend](https://git.heroku.com/intense-basin-33436.git)
+- [Deployment link frontend]()
 ## Project Description
 
 I will be building an app focusing on teaching children to develop better emotional/mental health skills through guided journaling. This app is also geared towards children and adults with special needs, to help better maintain routine and recenter. 
@@ -52,6 +52,7 @@ https://git.heroku.com/intense-basin-33436.git
 - Route that allows for parent email, parent will get a notification every time child takes a 'step', or gives them a weekly report of how many steps were taken. So parents can help enforce the habit. 
 - write a medium article
 - daily mental download
+- add to the json different image src urls for different breathing animations
 
 ## Schedule
 
@@ -71,7 +72,7 @@ https://git.heroku.com/intense-basin-33436.git
 ### Sunday 4/10/20 (time: est[10hr] | actual: [])
 
 - [x] Create React App and make necessary files and folders (parent comp, children comp, context, etc...), connect to github (Est: 2hr | Actual: 30min)
-- [ ] Route all parent components (Est: 2hr)
+- [x] Route all parent components (Est: 2hr | Actual: 2hr)
 - [ ] Connect app to back-end (Est: 1hr)
 - [ ] Stretch: Import all necessary design attributes (button images, backgrounds, etc..) (Est: 5hr)
 
@@ -96,7 +97,7 @@ https://git.heroku.com/intense-basin-33436.git
 
 - [ ] Finishing touches!
 - [ ] Post-MVP goals on different branch
-- [ ] First Post-MVP: "how are you feeling today" addition as first question.
+- [x] First Post-MVP: "how are you feeling today" addition as first question (time: 20min).
 
 ### Friday 4/15/20:
 
