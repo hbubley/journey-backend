@@ -9,9 +9,7 @@ app.use(cors({
     'allowedHeaders': ['sessionId', 'Content-Type'],
     'exposedHeaders': ['sessionId'],
     'origin': "*",
-    'methods': 'GET,PUT,POST,DELETE',
-    'credentials': true,
-    'preflightContinue': false
+    'methods': 'GET,PUT,POST,DELETE'
 }));
 app.use(express.json({ extended: false }));
 app.use("/api/users", require("./routes/users"));
