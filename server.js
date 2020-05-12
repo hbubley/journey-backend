@@ -6,7 +6,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-    'allowedHeaders': ['sessionId', 'Content-Type'],
+    'allowedHeaders': ['sessionId', 'Content-Type', 'x-auth-token'],
     'exposedHeaders': ['sessionId'],
     'origin': "*",
     'methods': 'GET,PUT,POST,DELETE'
