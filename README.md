@@ -53,6 +53,7 @@ https://git.heroku.com/intense-basin-33436.git
 - write a medium article
 - daily mental download
 - add to the json different image src urls for different breathing animations
+- radio button choices for how are you feeling and filter option
 
 ## Schedule
 
@@ -74,18 +75,20 @@ https://git.heroku.com/intense-basin-33436.git
 - [x] Create React App and make necessary files and folders (parent comp, children comp, context, etc...), connect to github (Est: 2hr | Actual: 30min)
 - [x] Route all parent components (Est: 2hr | Actual: 2hr)
 - [x] Connect app to back-end (Est: 1hr | Actual: 5hrs thank you CORs :D)
-- [ ] Stretch: Import all necessary design attributes (button images, backgrounds, etc..) (Est: 5hr)
+- [x] Stretch: Import all necessary design attributes (button images, backgrounds, etc..) (Est: 5hr| Actual: 5hr)
 
 ### Monday 4/11/20 (time: est[12hrs] | actual[])
 
-- [ ] Working and synced login/register pop-up connected to back-end (Est: 6hr - never done this before)
+- [x] Working and synced login/register pop-up connected to back-end (Est: 6hr - never done this before: Actual: 3hrs)
 - [x] Create breathing sequence animation (Est: 3hr - will likely play around with animation: Actual: 1hr)
 
 
 ### Tuesday 4/12/20 (time: est[12hrs] | actual[])
 
-- [x] Display functionality of journaling sequence (properly goes between input/breathing cycle) (Est: 7hr | Actual: 6hrs)
+- [x] Display functionality of journaling sequence (properly goes between input/breathing cycle) (Est: 7hr | Actual: 4hrs)
 - [ ] Ensure input is being registered and stored by back-end (2hr)
+- [ ] back to dashboard button (Est: 1hr)
+- [ ] Connect 'steps' route (Est 2hrs)
 - [ ] Stretch: SCSS breakpoints! (3hr)
 
 ### Wednesday 4/13/20 (time: est[5hrs] | actual[])
