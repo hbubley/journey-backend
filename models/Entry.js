@@ -26,8 +26,8 @@ const EntrySchema = mongoose.Schema({
     required: false,
   },
   date: {
-    type: String,
-    default: Date(),
+    type: Date,
+    default: new Date.now
   },
 });
 
