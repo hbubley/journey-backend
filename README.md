@@ -86,14 +86,14 @@ https://git.heroku.com/intense-basin-33436.git
 ### Tuesday 4/12/20 (time: est[12hrs] | actual[])
 
 - [x] Display functionality of journaling sequence (properly goes between input/breathing cycle) (Est: 7hr | Actual: 4hrs)
-- [ ] Ensure input is being registered and stored by back-end (2hr)
-- [ ] back to dashboard button (Est: 1hr)
-- [ ] Connect 'steps' route (Est 2hrs)
-- [ ] Stretch: SCSS breakpoints! (3hr)
+- [x] Ensure input is being registered and stored by back-end (2hr)
+- [x] back to dashboard button (Est: 1hr)
+- [x] Connect 'steps' route (Est 2hrs)
+- [x] Stretch: SCSS breakpoints! (3hr)
 
 ### Wednesday 4/13/20 (time: est[5hrs] | actual[])
 
-- [ ] SCSS breakpoints! (3hr)
+- [x] SCSS breakpoints! (3hr)
 - [ ] Testing and looking for bugs (2hr)
 
 ### Thursday 4/14/20
