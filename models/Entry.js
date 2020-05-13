@@ -26,7 +26,7 @@ const EntrySchema = mongoose.Schema({
     required: false,
   },
   date: {
-    type: String,
+    type: Date,
     default: new Date("<YYYY-mm-dd>"),
   },
 });
